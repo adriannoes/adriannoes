@@ -6,4 +6,6 @@ Currently working at [Pipefy](https://www.pipefy.com) as a Staff Product Manager
 
 On the side, I'm creating AI agents for the healthcare space in Brazil.
 
-Right now, I’m digging into Typescript, flowgramming and vibe coding. Feel free to drop me a message, my DMs are always open. 
+Right now, I’m digging into Typescript, flowgramming and vibe coding. 
+
+Feel free to drop me a message, my DMs are always open. 
