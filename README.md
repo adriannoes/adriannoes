@@ -1,6 +1,6 @@
 ## 👋 Hey there, I'm Adrianno
 
-I’ve built innovative products across different industries, from large enterprises to early-stage startups, and now I’m circling back to where it all started: re-learning the craft of software engineering.
+I’ve built innovative products across different industries, from large enterprises to early-stage startups. Now I’m circling back to where it all started: re-learning the craft of software engineering.
 
 Currently, I’m a **Staff Product Manager @ [Pipefy](https://www.pipefy.com)**, building an AI-powered platform that automates real-world workflows.
 
