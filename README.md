@@ -6,4 +6,6 @@ Currently, I’m a **Staff Product Manager @ [Pipefy](https://www.pipefy.com)**,
 
 On the side, I’m diving into **the magic behind LLMs**, experimenting with Python and TypeScript.
 
+Software is eating the world. AI is eating software. **It’s time to build**.
+
 Feel free to reach out, my DMs are always open. 🤝
