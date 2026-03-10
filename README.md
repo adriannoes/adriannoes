@@ -8,6 +8,6 @@ Currently, I’m a **Staff PM @ [Pipefy](https://www.pipefy.com)**, building an 
 
 On the side, I’m diving into **the magic behind LLMs**, experimenting with Python and TypeScript. 
 
-You can find my latest explorations in the **Pinned** section below, where I'm building **agentic infrastructure**—ranging from communication protocols and orchestration layers to physical agents and curated resources for the vibe coding era.
+Check my **Pinned** section below for my latest experiments in agentic infrastructure, from core communication protocols and orchestration layers to physical agents.
 
 ✨ *Software is eating the world. AI is eating software. **It’s time to build.***
