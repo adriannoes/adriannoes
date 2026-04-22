@@ -1,13 +1,15 @@
 ## 👋 Hey there, I'm Adrianno
 
-**Engineer turned Product Manager.** I’ve built innovative products across different industries, from large enterprises to early-stage startups. 
+**An engineer turned product manager,** I’ve built innovative products across different industries, from large enterprises to early-stage startups.
 
-Now, I’m circling back to where it all started: **re-learning the craft of software engineering.**
+Now, I’m circling back to where it all started: **the craft of software engineering.**
 
-Currently, I’m a **Staff PM @ [Pipefy](https://www.pipefy.com/ai/)**, building an AI-powered platform that automates real-world workflows.
+Currently, I’m building an AI-powered platform that automates real-world workflows at [Pipefy](https://www.pipefy.com/ai/).
 
 On the side, I’m diving into **the magic behind LLMs**, experimenting with Python and TypeScript. 
 
-Check my **Pinned** section below to see my explorations across the **agentic stack** — ranging from protocols and orchestration layers to physical agents.
+Check my **pinned** section below to see the things I’m building across the **agentic stack** — ranging from protocols and orchestration layers to physical agents.
+
+---
 
 ✨ *Software is eating the world. AI is eating software. **It’s time to build.***
